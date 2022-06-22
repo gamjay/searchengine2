@@ -20,7 +20,7 @@ lxml==4.5.2
 MarkupSafe==1.1.1
 networkx==2.4
 nltk==3.5
-numpy==1.19.1
+numpy==1.22.0
 pandas==1.0.5
 parsel==1.6.0
 Protego==0.1.16
